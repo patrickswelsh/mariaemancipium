@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mariaemancipium . I'm a freelance coder.
+- 👀 I’m interested in python, DAX, Google Apps Script, and taking over the world through data.
+- 🌱 I’m currently learning machine learning - esp on GCP and with TensorFlow.
+- 💞️ I’m looking to collaborate on anything interesting that will grow my experience in machine learning and python.
+- 📫 How to reach me patrickswelsh at gmail dot com.
