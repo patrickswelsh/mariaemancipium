@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mariaemancipium . I'm a freelance coder.
 - 👀 I’m interested in python, Google Apps Script, and cybersecurity.
-- 🌱 I’m currently learning more about python (like task queing!) and cyber.
+- 🌱 I’m currently learning more about python (like task queing!) and (usually but not always separately) cyber.
 - 💞️ I’m looking to collaborate on anything interesting that will grow my experience in cyber and/or python.
 - 📫 How to reach me patrickswelsh at gmail dot com.
